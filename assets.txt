@@ -1,0 +1,808 @@
+[
+    {
+      id: '$ACM_$CHZ',
+      name: 'AC Milan ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0xEA6A3E367e96521fD9E8296425a44EFa6aee82da',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$ASR_$CHZ',
+      name: 'AS Roma ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0x235639F72E127bBdd1509BFC9DC6e2caeb3FB741',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$ATM_$CHZ',
+      name: 'Atlético de Madrid ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0x4c3E460b8e8285DE57c8B1B2B688847B995B71D6',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$BAR_$CHZ',
+      name: 'FC Barcelona ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0xECc000EBd318bee2a052EB174A71fAF2C3c9e898',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$CITY_$CHZ',
+      name: 'Manchester City FC ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0xf30D150250F5301ef34A0E4a64aaFa93F242d87A',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$DG',
+      name: 'Decentral.games',
+      type: 'ERC20',
+      contractAddress: '0xEE06A81a695750E71a662B51066F2c74CF4478a0',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: '$INTER_$CHZ',
+      name: 'Inter Milan ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0x67e410B0e722ff2eec6dDCC7AefD3EdBC2B9078d',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$JUV_$CHZ',
+      name: 'Juventus ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0x14A5750B0e54b57D12767B84A326C9fE59472Da5',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$LEG_$CHZ',
+      name: 'Legia Warsaw ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0xd44fC47dBe5751ed36C3f549e217Dab749Aa4039',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$NAP_$CHZ',
+      name: 'Napoli ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0xC7456e8f7CE7BDdBcbF719d0a90811a35dD3d363',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '$PSG_$CHZ',
+      name: 'Paris Saint-Germain ($CHZ)',
+      type: 'ERC20',
+      contractAddress: '0x6fc212cdE3b420733A88496CbdbB15d85beAb1Ca',
+      nativeAsset: 'CHZ_$CHZ',
+      decimals: 0
+    },
+    {
+      id: '1INCH',
+      name: '1INCH Token',
+      type: 'ERC20',
+      contractAddress: '0x111111111117dC0aa78b770fA6A738034120C302',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: '1INCH_BSC',
+      name: '1INCH Token (BSC)',
+      type: 'BEP20',
+      contractAddress: '0x111111111117dC0aa78b770fA6A738034120C302',
+      nativeAsset: 'BNB_BSC',
+      decimals: 18
+    },
+    {
+      id: '1WO',
+      name: '1World',
+      type: 'ERC20',
+      contractAddress: '0xfDBc1aDc26F0F8f8606a5d63b7D3a3CD21c22B23',
+      nativeAsset: 'ETH',
+      decimals: 8
+    },
+    {
+      id: '2GT',
+      name: '2GT_token',
+      type: 'ERC20',
+      contractAddress: '0xC96c1609A1a45CcC667B2b7FA6508e29617f7b69',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: '7UT',
+      name: '7EVEN Utility Token',
+      type: 'ERC20',
+      contractAddress: '0xde50da7f5966eFe1869349ff2242D7AD932Eb785',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'A5T',
+      name: 'Alpha5Token',
+      type: 'ERC20',
+      contractAddress: '0xe8272210954eA85DE6D2Ae739806Ab593B5d9c51',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AAAVE',
+      name: 'Aave interest bearing AAVE',
+      type: 'ERC20',
+      contractAddress: '0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AAVE',
+      name: 'Aave Token',
+      type: 'ERC20',
+      contractAddress: '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AAVE_BSC',
+      name: 'Binance-Peg Aave Token (BSC)',
+      type: 'BEP20',
+      contractAddress: '0xfb6115445Bff7b52FeB98650C87f44907E58f802',
+      nativeAsset: 'BNB_BSC',
+      decimals: 18
+    },
+    {
+      id: 'AAVE_E_AVAX',
+      name: 'Aave Token (Avalanche)',
+      type: 'ERC20',
+      contractAddress: '0x63a72806098Bd3D9520cC43356dD78afe5D386D9',
+      nativeAsset: 'AVAX',
+      decimals: 18
+    },
+    {
+      id: 'AAVE_POLYGON',
+      name: 'Aave (Polygon)',
+      type: 'ERC20',
+      contractAddress: '0xD6DF932A45C0f255f85145f286eA0b292B21C90B',
+      nativeAsset: 'MATIC_POLYGON',
+      decimals: 18
+    },
+    {
+      id: 'ABAT',
+      name: 'Aave BAT',
+      type: 'ERC20',
+      contractAddress: '0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ABYSS',
+      name: 'The Abyss',
+      type: 'ERC20',
+      contractAddress: '0x0E8d6b471e332F140e7d9dbB99E5E3822F728DA6',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ACH',
+      name: 'Alchemy Pay',
+      type: 'ERC20',
+      contractAddress: '0xEd04915c23f00A313a544955524EB7DBD823143d',
+      nativeAsset: 'ETH',
+      decimals: 8
+    },
+    {
+      id: 'ACM_SOL',
+      name: 'Acumen Governance Token (Solana)',
+      type: 'SOL_ASSET',
+      contractAddress: '',
+      nativeAsset: 'SOL',
+      decimals: 9,
+      issuerAddress: 'ACUMENkbnxQPAsN8XrNA11sY3NmXDNKVCqS82EiDqMYB'
+    },
+    {
+      id: 'ADA',
+      name: 'ADA (Cardano)',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ADA',
+      decimals: 6
+    },
+    {
+      id: 'ADA_BSC',
+      name: 'Binance-Peg Cardano (BSC)',
+      type: 'BEP20',
+      contractAddress: '0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47',
+      nativeAsset: 'BNB_BSC',
+      decimals: 18
+    },
+    {
+      id: 'ADA_TEST',
+      name: 'ADA Test',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ADA_TEST',
+      decimals: 6
+    },
+    {
+      id: 'ADAI',
+      name: 'Aave interest bearing DAI',
+      type: 'ERC20',
+      contractAddress: '0x028171bCA77440897B824Ca71D1c56caC55b68A3',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ADAI_OLD',
+      name: 'Aave Interest bearing DAI (Old)',
+      type: 'ERC20',
+      contractAddress: '0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ADDY_POLYGON',
+      name: 'Adamant',
+      type: 'ERC20',
+      contractAddress: '0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539',
+      nativeAsset: 'MATIC_POLYGON',
+      decimals: 18
+    },
+    {
+      id: 'ADH',
+      name: 'AdHive',
+      type: 'ERC20',
+      contractAddress: '0xE69a353b3152Dd7b706ff7dD40fe1d18b7802d31',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ADX',
+      name: 'AdEx Network',
+      type: 'ERC20',
+      contractAddress: '0xADE00C28244d5CE17D72E40330B1c318cD12B7c3',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AETH',
+      name: 'Aave Interest bearing ETH',
+      type: 'ERC20',
+      contractAddress: '0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AGI',
+      name: 'SingularityNET',
+      type: 'ERC20',
+      contractAddress: '0x8eB24319393716668D768dCEC29356ae9CfFe285',
+      nativeAsset: 'ETH',
+      decimals: 8
+    },
+    {
+      id: 'AGIX',
+      name: 'SingularityNET Token',
+      type: 'ERC20',
+      contractAddress: '0x5B7533812759B45C2B44C19e320ba2cD2681b542',
+      nativeAsset: 'ETH',
+      decimals: 8
+    },
+    {
+      id: 'AGLD',
+      name: 'Adventure Gold',
+      type: 'ERC20',
+      contractAddress: '0x32353A6C91143bfd6C7d363B546e62a9A2489A20',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AGX',
+      name: 'AGX Coin',
+      type: 'ERC20',
+      contractAddress: '0x69CF1e63090Acf1e1E16ec0066055f8973fc9Ec8',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AKRO',
+      name: 'Akropolis',
+      type: 'ERC20',
+      contractAddress: '0x8Ab7404063Ec4DBcfd4598215992DC3F8EC853d7',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALCX',
+      name: 'Alchemix',
+      type: 'ERC20',
+      contractAddress: '0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALD',
+      name: 'Aladdin Token',
+      type: 'ERC20',
+      contractAddress: '0xb26C4B3Ca601136Daf98593feAeff9E0CA702a8D',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALDDAO',
+      name: 'Aladdin DAO Token',
+      type: 'ERC20',
+      contractAddress: '0xB5495A8D85EE18cfD0d2816993658D88aF08bEF4',
+      nativeAsset: 'ETH',
+      decimals: 0
+    },
+    {
+      id: 'ALEPH',
+      name: 'aleph.im v2',
+      type: 'ERC20',
+      contractAddress: '0x27702a26126e0B3702af63Ee09aC4d1A084EF628',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALETH',
+      name: 'Alchemix ETH',
+      type: 'ERC20',
+      contractAddress: '0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALG',
+      name: 'Algory',
+      type: 'ERC20',
+      contractAddress: '0x16B0a1a87ae8aF5C792faBC429C4FE248834842B',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALGO',
+      name: 'Algorand',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ALGO',
+      decimals: 6
+    },
+    {
+      id: 'ALGO_TEST',
+      name: 'Algorand Test',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ALGO_TEST',
+      decimals: 6
+    },
+    {
+      id: 'ALGO_USDC_2V6G',
+      name: 'USDC Test on Algorand',
+      type: 'ALGO_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ALGO_TEST',
+      decimals: 6,
+      issuerAddress: '10458941'
+    },
+    {
+      id: 'ALGO_USDC_UV4I',
+      name: 'USDC on Algorand',
+      type: 'ALGO_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ALGO',
+      decimals: 6,
+      issuerAddress: '31566704'
+    },
+    {
+      id: 'ALGO_USDT_I3ZH',
+      name: 'USDT on Algorand',
+      type: 'ALGO_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ALGO',
+      decimals: 6,
+      issuerAddress: '312769'
+    },
+    {
+      id: 'ALI',
+      name: 'Artificial Liquid Intelligence Token',
+      type: 'ERC20',
+      contractAddress: '0x6B0b3a982b4634aC68dD83a4DBF02311cE324181',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALICE',
+      name: 'ALICE',
+      type: 'ERC20',
+      contractAddress: '0xAC51066d7bEC65Dc4589368da368b212745d63E8',
+      nativeAsset: 'ETH',
+      decimals: 6
+    },
+    {
+      id: 'ALINK',
+      name: 'Aave Interest bearing LINK',
+      type: 'ERC20',
+      contractAddress: '0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALINK_V2',
+      name: 'Aave interest bearing LINK v2',
+      type: 'ERC20',
+      contractAddress: '0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALK',
+      name: 'Alkemi_Network_DAO_Token',
+      type: 'ERC20',
+      contractAddress: '0x6C16119B20fa52600230F074b349dA3cb861a7e3',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALPA',
+      name: 'AlpaToken',
+      type: 'ERC20',
+      contractAddress: '0x7cA4408137eb639570F8E647d9bD7B7E8717514A',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALPACA_BSC',
+      name: 'AlpacaToken (BSC)',
+      type: 'BEP20',
+      contractAddress: '0x8F0528cE5eF7B51152A59745bEfDD91D97091d2F',
+      nativeAsset: 'BNB_BSC',
+      decimals: 18
+    },
+    {
+      id: 'ALPHA',
+      name: 'AlphaToken',
+      type: 'ERC20',
+      contractAddress: '0xa1faa113cbE53436Df28FF0aEe54275c13B40975',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ALU_BSC',
+      name: 'Altura',
+      type: 'BEP20',
+      contractAddress: '0x8263CD1601FE73C066bf49cc09841f35348e3be0',
+      nativeAsset: 'BNB_BSC',
+      decimals: 18
+    },
+    {
+      id: 'ALUSD',
+      name: 'Alchemix USD',
+      type: 'ERC20',
+      contractAddress: '0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AMB',
+      name: 'Ambrosus',
+      type: 'ERC20',
+      contractAddress: '0x4DC3643DbC642b72C158E7F3d2ff232df61cb6CE',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AMLT',
+      name: 'AMLT',
+      type: 'ERC20',
+      contractAddress: '0xCA0e7269600d353F70b14Ad118A49575455C0f2f',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AMN',
+      name: 'Amon',
+      type: 'ERC20',
+      contractAddress: '0x737F98AC8cA59f2C68aD658E3C3d8C8963E40a4c',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AMP',
+      name: 'Amp',
+      type: 'ERC20',
+      contractAddress: '0xfF20817765cB7f73d4bde2e66e067E58D11095C2',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AMPL',
+      name: 'Ampleforth',
+      type: 'ERC20',
+      contractAddress: '0xD46bA6D942050d489DBd938a2C909A5d5039A161',
+      nativeAsset: 'ETH',
+      decimals: 9
+    },
+    {
+      id: 'ANC',
+      name: 'Wrapped ANC Token',
+      type: 'ERC20',
+      contractAddress: '0x0F3ADC247E91c3c50bC08721355A41037E89Bc20',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ANKR',
+      name: 'Ankr Network',
+      type: 'ERC20',
+      contractAddress: '0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ANT',
+      name: 'Aragon',
+      type: 'ERC20',
+      contractAddress: '0xa117000000f279D81A1D3cc75430fAA017FA5A2e',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AOA',
+      name: 'Aurora.io (Ethereum)',
+      type: 'ERC20',
+      contractAddress: '0x9ab165D795019b6d8B3e971DdA91071421305e5a',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'APE_ETH',
+      name: 'ApeCoin',
+      type: 'ERC20',
+      contractAddress: '0x4d224452801ACEd8B2F0aebE155379bb5D594381',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'API3',
+      name: 'API3',
+      type: 'ERC20',
+      contractAddress: '0x0b38210ea11411557c13457D4dA7dC6ea731B88a',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'APW',
+      name: 'APWine Token',
+      type: 'ERC20',
+      contractAddress: '0x4104b135DBC9609Fc1A9490E61369036497660c8',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'APY',
+      name: 'APY Governance Token',
+      type: 'ERC20',
+      contractAddress: '0x95a4492F028aa1fd432Ea71146b433E7B4446611',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ARC_AETH',
+      name: 'Aave Arc Interest bearing ETH',
+      type: 'ERC20',
+      contractAddress: '0x319190E3Bbc595602A9E63B2bCfB61c6634355b1',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ARC-AAAVE',
+      name: 'Aave Arc Interest bearing AAVE',
+      type: 'ERC20',
+      contractAddress: '0x89eFaC495C65d43619c661df654ec64fc10C0A75',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ARCA',
+      name: 'ARCA',
+      type: 'ERC20',
+      contractAddress: '0x62A6738d887F47e297676FaB05b902709B106C64',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ARCH',
+      name: 'Archer DAO Governance Token',
+      type: 'ERC20',
+      contractAddress: '0x1F3f9D3068568F8040775be2e8C03C103C61f3aF',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ARPA',
+      name: 'ARPA Token',
+      type: 'ERC20',
+      contractAddress: '0xBA50933C268F567BDC86E1aC131BE072C6B0b71a',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ASH',
+      name: 'Burn',
+      type: 'ERC20',
+      contractAddress: '0x64D91f12Ece7362F91A6f8E7940Cd55F05060b92',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ASM',
+      name: 'ASSEMBLE',
+      type: 'ERC20',
+      contractAddress: '0x2565ae0385659badCada1031DB704442E1b69982',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AST',
+      name: 'AirSwap',
+      type: 'ERC20',
+      contractAddress: '0x27054b13b1B798B345b591a4d22e6562d47eA75a',
+      nativeAsset: 'ETH',
+      decimals: 4
+    },
+    {
+      id: 'ATA',
+      name: 'Automata',
+      type: 'ERC20',
+      contractAddress: '0xA2120b9e674d3fC3875f415A7DF52e382F141225',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ATD',
+      name: 'ATD',
+      type: 'ERC20',
+      contractAddress: '0xF69709C4c6F3F2b17978280dCe8b7b7a2CbcbA8b',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'ATLAS_SOL',
+      name: 'Star Atlas (Solana)',
+      type: 'SOL_ASSET',
+      contractAddress: '',
+      nativeAsset: 'SOL',
+      decimals: 8,
+      issuerAddress: 'ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx'
+    },
+    {
+      id: 'ATOM',
+      name: 'Cosmos Token (BSC)',
+      type: 'BEP20',
+      contractAddress: '0x0Eb3a705fc54725037CC9e008bDede697f62F335',
+      nativeAsset: 'BNB_BSC',
+      decimals: 18
+    },
+    {
+      id: 'ATOM_COS',
+      name: 'Cosmos Hub',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ATOM_COS',
+      decimals: 6
+    },
+    {
+      id: 'ATOM_COS_TEST',
+      name: 'Cosmos Hub Test',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'ATOM_COS_TEST',
+      decimals: 6
+    },
+    {
+      id: 'ATRI',
+      name: 'AtariToken',
+      type: 'ERC20',
+      contractAddress: '0xdacD69347dE42baBfAEcD09dC88958378780FB62',
+      nativeAsset: 'ETH',
+      decimals: 0
+    },
+    {
+      id: 'ATUSD',
+      name: 'Aave interest bearing TUSD',
+      type: 'ERC20',
+      contractAddress: '0x101cc05f4A51C0319f570d5E146a8C625198e636',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AUCTION',
+      name: 'Bounce Token',
+      type: 'ERC20',
+      contractAddress: '0xA9B1Eb5908CfC3cdf91F9B8B3a74108598009096',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AUDIO',
+      name: 'Audius',
+      type: 'ERC20',
+      contractAddress: '0x18aAA7115705e8be94bfFEBDE57Af9BFc265B998',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AURORA_DEV',
+      name: 'Aurora.dev',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'AURORA_DEV',
+      decimals: 18
+    },
+    {
+      id: 'AUSDC',
+      name: 'Aave Interest bearing USDC',
+      type: 'ERC20',
+      contractAddress: '0x9bA00D6856a4eDF4665BcA2C2309936572473B7E',
+      nativeAsset: 'ETH',
+      decimals: 6
+    },
+    {
+      id: 'AUSDC_D35F6_ETH',
+      name: 'Aave Arc Interest bearing USDC',
+      type: 'ERC20',
+      contractAddress: '0xd35f648C3C7f17cd1Ba92e5eac991E3EfcD4566d',
+      nativeAsset: 'ETH',
+      decimals: 6
+    },
+    {
+      id: 'AUSDC_ETH',
+      name: 'Aave interest bearing USDC (V2)',
+      type: 'ERC20',
+      contractAddress: '0xBcca60bB61934080951369a648Fb03DF4F96263C',
+      nativeAsset: 'ETH',
+      decimals: 6
+    },
+    {
+      id: 'AUX',
+      name: 'AUX Coin',
+      type: 'ERC20',
+      contractAddress: '0xab60CcAC0d4157c2b03e5D883bDbe60317992f58',
+      nativeAsset: 'ETH',
+      decimals: 18
+    },
+    {
+      id: 'AVAX',
+      name: 'Avalanche (C-Chain)',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'AVAX',
+      decimals: 18
+    },
+    {
+      id: 'AVAX_BSC',
+      name: 'Avalanche (BSC)',
+      type: 'BEP20',
+      contractAddress: '0x1CE0c2827e2eF14D5C4f29a091d735A204794041',
+      nativeAsset: 'BNB_BSC',
+      decimals: 18
+    },
+    {
+      id: 'AVAXTEST',
+      name: 'Avalanche Fuji',
+      type: 'BASE_ASSET',
+      contractAddress: '',
+      nativeAsset: 'AVAXTEST',
+      decimals: 18
+    },
+    ... 1071 more items
+  ]
